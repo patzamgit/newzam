@@ -148,7 +148,7 @@ body {
 	font-size: 16px;
 	font-weight: 600;
 	letter-spacing: 0;
-	color: #6d48e5 !important;
+	color: #347EB7 !important;
 	vertical-align: middle;
 }
 
@@ -250,7 +250,7 @@ body {
 }
 
 .navbar.past-main .navbar-brand {
-	color: #6d48e5 !important;
+	color: #347EB7 !important;
 }
 
 .nav-white.past-main .nav-item .nav-link {
@@ -337,7 +337,7 @@ body {
   white-space: nowrap;
   cursor: pointer;
 	background-color: #387ed1;
-	background: #6d48e5;
+	background: #347EB7;
   color: #FFFFFF;
   border: 1px solid transparent !important;
   border-radius: 4px;
@@ -356,7 +356,7 @@ body {
 }
 
 .btn-action:focus, .btn-action:active {
-	background: #6d48e5;
+	background: #347EB7;
 	color: #FFFFFF;
 	border: 1px solid transparent !important;
 	outline: none !important;
@@ -403,7 +403,7 @@ body {
 	white-space: nowrap;
 	cursor: pointer;
 	background-color: #387ed1;
-	background: #6d48e5;
+	background: #347EB7;
 	color: #FFFFFF !important;
 	border: 1px solid transparent !important;
 	border-radius: 4px;
@@ -422,7 +422,7 @@ body {
 }
 
 .btn-cta:focus, .btn-cta:active {
-	background: #6d48e5;
+	background: #347EB7;
 	color: #FFFFFF;
 	border: 1px solid transparent !important;
 	outline: none !important;
@@ -493,7 +493,7 @@ body {
   border-radius: 0 4px 4px 0;
   margin-left: -25px;
   padding: 0 25px 0 25px;
-	background: #6d48e5;
+	background: #347EB7;
 	font-family: 'Montserrat';
 	font-size: 14px;
 	font-weight: 500;
@@ -664,7 +664,7 @@ body {
 
 .features {
 	padding: 100px 0;
-	background: #f6f6fd;
+	background: #F2F2F2;
 }
 
 .features-intro {
@@ -743,7 +743,7 @@ body {
 
 .yd-stats {
 	padding: 100px 0;
-	background: #6d48e5;
+	background: #002B54;
 }
 
 .yd-stats .intro {
@@ -793,7 +793,7 @@ body {
 .counter-up h3 {
 	font-size: 42px;
 	font-weight: 700;
-	color: #6d48e5;
+	color: #347EB7;
 	color: #FFFFFF;
 }
 
@@ -815,7 +815,7 @@ body {
 	font-family: 'Montserrat';
 	font-size: 15px;
 	font-weight: 500;
-	color: #6d48e5;
+	color: #347EB7;
 	color: #FFFFFF;
 	text-decoration: none;
 	border-bottom: 1px solid #fff;
@@ -825,13 +825,13 @@ body {
 .yd-ft {
 	padding: 75px 0;
 	background: #E8F3EC;
-	background: #6d48e5;
+	background: #347EB7;
 }
 
 .yd-ft .yd-ft-inner {
 	display: block;
 	background: #E8F3EC;
-	background: #6d48e5;
+	background: #347EB7;
 	max-width: 1024px;
 	margin: 0 auto;
 }
@@ -861,7 +861,7 @@ body {
 
 .yd-ft .yd-ft-inner .yd-ft-left .btn-action {
 	background: #FFF;
-	color: #6d48e5;
+	color: #347EB7;
 	letter-spacing: 1px;
 	text-transform: capitalize;
 }
@@ -1023,7 +1023,7 @@ body {
 	.table-left .pricing-details h2, .table-right .pricing-details h2 {
 		font-size: 21px;
 		font-weight: 600;
-		color: #6d48e5;
+		color: #347EB7;
 		margin-bottom: 30px;
 	}
 
@@ -1073,11 +1073,11 @@ body {
 	.ar-reviews {
 		padding: 5%;
 		background: url(../images/bg.jpg) no-repeat center center;
-		background: #f6f6fd;
+		background: #F2F2F2;
 	}
 
 	.ar-reviews .ar-box {
-		background: #6d48e5;
+		background: #347EB7;
 		display: block;
 		padding: 50px;
 	}
@@ -1105,7 +1105,7 @@ body {
 
 	.ar-box .ar-left .btn-action {
 		background: #FFF;
-    color: #6d48e5;
+    color: #347EB7;
     letter-spacing: 1px;
     text-transform: capitalize;
 	}
@@ -1119,7 +1119,7 @@ body {
 	padding: 100px 0 100px 0;
 	background: #FFFFFF;
 	background: rgba(30, 166, 154, 0.08);
-	background: #f6f6fd;
+	background: #F2F2F2;
 	background-size: cover;
 }
 
@@ -1164,7 +1164,7 @@ body {
 	-webkit-box-flex: 1;
   -ms-flex: 1 0 50%;
   flex: 1 0 50%;
-	background: #6d48e5;
+	background: #347EB7;
 	padding: 60px;
 	text-align: left;
 }
@@ -1211,7 +1211,7 @@ body {
 	font-family: 'Montserrat';
 	font-size: 12px;
 	font-weight: 500;
-	color: #6d48e5;
+	color: #347EB7;
 	position: relative;
 	display: inline-block;
 	text-decoration: none;
@@ -1224,7 +1224,7 @@ body {
   height: 1px;
   bottom: -3px;
   left: 0;
-  background-color: #6d48e5;
+  background-color: #347EB7;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -1260,7 +1260,7 @@ body {
 	padding: 100px 0 100px 0;
 	background: rgba(30, 166, 154, 0.1);
 	background: #f8faff;
-	background: #f6f6fd;
+	background: #F2F2F2;
 }
 
 .cta-sm .cta-content {
@@ -1304,13 +1304,13 @@ body {
 	display: block;
 	width: 100%;
 	margin: 0 auto;
-  color: #6d48e5;
+  color: #347EB7;
   font-family: 'Montserrat';
   padding: 0;
   font-size: 13px;
 	font-weight: 500;
 	height: 50px;
-  border: 1px solid #6d48e5;
+  border: 1px solid #347EB7;
   border-radius: 4px;
 	background-color: #FFFFFF;
   outline: none;
@@ -1321,7 +1321,7 @@ body {
 .form input:focus {
 	outline: none !important;
 	background: #FFFFFF;
-	border: 1px solid #6d48e5;
+	border: 1px solid #347EB7;
 }
 
 .form .submit-button {
@@ -1332,7 +1332,7 @@ body {
   margin: 0 auto;
 	margin: 15px 0;
   padding: 0 25px 0 25px;
-	background: #6d48e5;
+	background: #347EB7;
 	font-family: 'Montserrat';
 	font-size: 14px;
 	font-weight: 500;
@@ -1352,7 +1352,7 @@ body {
 }
 
 .form .submit-button:focus, .form .submit-button:active {
-	background: #6d48e5;
+	background: #347EB7;
 }
 
 #email-error {
@@ -1408,7 +1408,7 @@ body {
 .footer-sm {
 	padding: 30px 0;
 	background: rgba(30, 166, 154, 0.1);
-	background: #f6f6fd;
+	background: #F2F2F2;
 	text-align: center;
 }
 
@@ -1420,7 +1420,7 @@ body {
 	font-family: 'Montserrat';
 	font-size: 18px;
 	font-weight: 600;
-	color: #6d48e5;
+	color: #347EB7;
 	letter-spacing: 0;
 	display: block;
 	margin-bottom: 15px;
@@ -1467,7 +1467,7 @@ body {
   height: 1px;
   bottom: -3px;
   left: 0;
-  background-color: #6d48e5;
+  background-color: #347EB7;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -1502,7 +1502,7 @@ body {
 	display: none;
 	width: 45px;
 	height: 45px;
-	background: #6d48e5;
+	background: #347EB7;
 	color: #f2f2f0;
 	border-radius: 50%;
 	display: table;
