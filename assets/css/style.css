@@ -1496,8 +1496,8 @@ body {
 
 .bk-top {
 	position: fixed;
-	bottom: 30px;
-	right: 30px;
+	bottom: 90px;
+	right: 15px;
 	border-radius: 3px;
 	z-index: 90;
 	display: none;
