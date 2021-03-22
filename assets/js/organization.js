@@ -45,7 +45,7 @@ function submitprocess(){
 	//$('#loader').show();
 		$.ajax({
 			type:'POST',
-			url:MAINPATH+'assets/php/sendmail.php',
+			url:'https://languagepanel.com/newzam/sendmail.php',
 			data: data,
 			dataType:'json',
 			success:function(jdata){
