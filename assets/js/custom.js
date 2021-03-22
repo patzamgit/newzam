@@ -122,7 +122,7 @@ $('.counter').counterUp({
 
 $(document).ready(function() {
      // jQuery Validation
-     $("#chimp-form").validate({
+     /*$("#chimp-form").validate({
          // if valid, post data via AJAX
          submitHandler: function(form) {
              $.post("assets/php/subscribe.php", { email: $("#chimp-email").val() }, function(data) {
@@ -136,7 +136,7 @@ $(document).ready(function() {
                  email: true
              }
          }
-     });
+     });*/
  });
 
 });

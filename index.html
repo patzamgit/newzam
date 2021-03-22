@@ -10,7 +10,7 @@
     <meta name="keywords" content="Online School Business Management Software with Unique LMS">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
     
-    <link href="assets/css/tabs_vertical.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="assets/css/tabs_vertical.css?v=1.1" rel="stylesheet" type="text/css" media="all" />
 
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/animate.css"> <!-- Resource style -->
@@ -21,7 +21,7 @@
 		
 		<script src="https://www.google.com/recaptcha/api.js?render=6LdD5g8aAAAAAPn9VgALTpCQ_6bPj604cGaNnsC2"></script>
 		
-		<script type="text/javascript" src="assets/js/organization.js"></script>
+		<script type="text/javascript" src="assets/js/organization.js?v=1.1"></script>
   </head>
   <body>
     <div class="wrapper">
@@ -170,7 +170,7 @@
         </div>-->
 				
 				<!-- Products Section -->
-        <div id="products" class="flex-split">
+        <div id="products" class="flex-split" style="background:#F2F2F2;">
 					<div class="container-s">
 						<div class="flex-intro align-center wow fadeIn">
 						<h2>All-in-one online school software</h2>
@@ -252,7 +252,7 @@
 				</div>
 				
 				<!-- Features Section -->
-				<div id="features" class="flex-split" style="padding-top:0px;">
+				<div id="features" class="flex-split" style="/*padding-top:0px;*/">
 					<div class="container-s">
 					
 					<div class="flex-intro align-center wow fadeIn">
@@ -275,7 +275,12 @@
 					
 					<div id="tab1" class="tabcontent col-lg-8">
 						<h2>Student account</h2>
-						<p>Mauris efficitur sem mauris, sit amet facilisis purus pharetra eu. Mauris diam ante, luctus a efficitur sit amet, convallis sit amet velit. Cras porta sem est, ac sagittis velit commodo sit amet. In hac habitasse platea dictumst.</p>
+						<ul>
+						<li>Mauris efficitur sem mauris, sit amet facilisis purus pharetra eu.</li>
+						<li>Mauris diam ante, luctus a efficitur sit amet, convallis sit amet velit.</li>
+						<li>Cras porta sem est, ac sagittis velit commodo sit amet.</li>
+						<li>In hac habitasse platea dictumst.</li>
+						</ul>
 					</div>
 
 					<div id="tab2" class="tabcontent col-lg-8">
@@ -574,11 +579,12 @@
                <h4>LEARN HOW ZAMENHOF CAN HELP YOU ACHEIVE YOUR GOALS.</h4>
                <h1>Talk to an expert!<br />Get a Personalized Demo</h1>
                <div class="form wow fadeIn" data-wow-delay="0.2s">
-                <form id="chimp-form" class="subscribe-form wow zoomIn" method="post" accept-charset="UTF-8" enctype="application/x-www-form-urlencoded" autocomplete="off" >
+								<form id="chimp-form" class="subscribe-form wow zoomIn" method="post" accept-charset="UTF-8" enctype="application/x-www-form-urlencoded" autocomplete="off" >
                   <input class="mail email required" id="email" type="email" name="email" placeholder="Enter your SCHOOL email address" autocomplete="off">
-                  <input class="submit-button" type="button" onclick="return submitprocess();" value="REQUEST A DEMO AND A TRIAL">
+                  <input class="submit-button" type="button" value="REQUEST A DEMO AND A TRIAL" onclick="submitprocess();" />
 									<input type="hidden" id="token" name="token">
                 </form>
+								
                 <div id="response"></div>
               </div>
               <div class="form-note">

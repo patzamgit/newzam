@@ -39,7 +39,8 @@ function utf8_decode(str_data) {
   return tmp_arr.join('');
 }
 
-function submitprocess(){	
+function submitprocess(){
+	var mg=0;	
 	if($('#chimp-form').valid()){
 	var data=$('#chimp-form').serializeArray();
 	//$('#loader').show();
@@ -49,11 +50,15 @@ function submitprocess(){
 			data: data,
 			dataType:'json',
 			success:function(jdata){
-				//$('#loader').hide();
 				$('#response').html(utf8_decode(jdata.str));
 				$('#email').val('');
+				mg=1;
 			}
 		});
+		/*if(mg==0){
+			$('#response').html('Thank you for your mail. We will contact you soon.');
+			$('#email').val('');
+		}*/
 	}
 }
 
