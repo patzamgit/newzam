@@ -52,7 +52,7 @@
 .tabcontent h1,.tabcontent h2,.tabcontent h3,.tabcontent h4,.tabcontent h5,.tabcontent h6{margin-bottom:10px;}
 .tabcontent h1,.tabcontent h2,.tabcontent h3{font-size: 24px;font-weight: 600;color: #3a3a47;line-height: 1.3;}
 .tabcontent p,.tabcontent ul li{font-size:16px;font-weight:500;line-height: 1.6;letter-spacing: 0.01em;color: #818198;margin-top: 15px;margin-bottom: 15px;}
-.tabcontent ul li{list-style:none;}
+.tabcontent ul li{list-style-type:disc;margin-left:17px;}
 
 .tablinks .index{color:#666;border:#666 1px solid;border-radius:50%;padding:5px 9px;margin-right:10px;font-weight:bold;}
 .tablinks.active .index{color:#fff;background:#666;}

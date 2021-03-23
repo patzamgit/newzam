@@ -96,6 +96,7 @@ body {
   box-sizing: border-box;
 }
 
+.main strong{font-weight:bold;}
 
 #loading {
    width: 100%;
