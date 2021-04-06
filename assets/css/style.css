@@ -1392,7 +1392,7 @@ body {
 	font-family: 'Montserrat';
 	font-size: 13px !important;
 	font-weight: 500;
-	color: #15ccbe;
+	color: #ff0000;/*#15ccbe;*/
 }
 
 #chimp-email-error {
@@ -1556,6 +1556,39 @@ body {
   color: #FFFFFF;
 }
 
+
+/*------------------------------------------
+-------------- Table styling ---------------
+------------------------------------------*/
+.table{
+	width: 100%;
+	margin-bottom: 1rem;
+	background-color: transparent;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1.6;
+	letter-spacing: 0.01em;
+	color: #364655;
+}
+
+.tal{text-align:left !important;}
+.tar{text-align:right !important;}
+
+.w-750 {
+    max-width: 750px !important;
+}
+
+.ml-auto, .mx-auto {
+    margin-left: auto!important;
+}
+
+.mr-auto, .mx-auto {
+    margin-right: auto!important;
+}
+
+.table-borderless tbody+tbody, .table-borderless td, .table-borderless th, .table-borderless thead th {
+    border: 0;
+}
 
 
 
