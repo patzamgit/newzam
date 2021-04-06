@@ -159,6 +159,8 @@ body {
 	margin-right: 0.3em;
 }
 
+.navbar .navbar-brand .logo {width:130px;}
+
 .navbar .navbar-toggler {
 	border: none;
 }
@@ -1576,6 +1578,9 @@ body {
 
 .w-750 {
     max-width: 750px !important;
+}
+.w-650 {
+    max-width: 650px !important;
 }
 
 .ml-auto, .mx-auto {
