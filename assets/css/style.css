@@ -960,7 +960,7 @@ body {
 	@media (min-width: 992px){
 		#pricing .offset-lg-2 {margin-left: 12.5%;}
 		
-		.pricing-details{min-height:560px;}
+		.pricing-details{min-height:480px;}
 	}
 
 	.pricing-section {
