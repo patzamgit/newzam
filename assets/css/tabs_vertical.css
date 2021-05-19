@@ -46,7 +46,7 @@
   /*border: 1px solid #ccc;*/
   /*width: 80%;*/
   /*border-left: none;*/
-  height: 300px;
+  min-height: 300px;
 }
 
 .tabcontent h1,.tabcontent h2,.tabcontent h3,.tabcontent h4,.tabcontent h5,.tabcontent h6{margin-bottom:10px;}
